@@ -4,7 +4,7 @@ namespace MyPlot\subcommand;
 use pocketmine\command\CommandSender;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
-class PlotLike extends SubCommand
+class LikeSubCommand extends SubCommand
 {
 	/**
 	 * @param CommandSender $sender
