@@ -65,6 +65,8 @@ permissions:
                 default: true
             myplot.command.list:
                 default: true
+            myplot.command.like:
+                default: true       
     myplot.admin:
         default: op
         children:
